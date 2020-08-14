@@ -9,7 +9,7 @@ I solved the challenges in Python Programming Language 🐍
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  00   |  [Day 0: Hello, World](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%200:%20Hello%2C%20World)      |
-|  01   |  [Day 0: Hello, World](./readme.md)      |
+|  01   |  [Day 1: Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%201:%20Data%20Types)      |
 |  02   |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)  |
 |  03   |  [Operators](./03_Day_Operators/03_operators.md)    |
 |  04   |  [Strings](./04_Day_Strings/04_strings.md)|
