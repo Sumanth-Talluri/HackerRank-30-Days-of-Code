@@ -12,7 +12,7 @@ I solved the challenges in Python Programming Language 🐍
 |  01   |  [Day 1: Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%201:%20Data%20Types)      |
 |  02   |  [Day 2: Operators](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%202:%20Operators)  |
 |  03   |  [Day 3: Intro to Conditional Statements](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%203:%20Intro%20to%20Conditional%20Statements)    |
-|  04   |  [Strings](./04_Day_Strings/04_strings.md)|
+|  04   |  [Day 4: Class vs. Instance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%204:%20Class%20vs.%20Instance)|
 |  05   |  [Lists](./05_Day_Lists/05_lists.md)  |
 |  06   |  [Tuples](./06_Day_Tuples/06_tuples.md) |
 |  07   |  [Sets](./07_Day_Sets/07_sets.md)  |
