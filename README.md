@@ -13,7 +13,7 @@ I solved the challenges in Python Programming Language 🐍
 |  02   |  [Day 2: Operators](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%202:%20Operators)  |
 |  03   |  [Day 3: Intro to Conditional Statements](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%203:%20Intro%20to%20Conditional%20Statements)    |
 |  04   |  [Day 4: Class vs. Instance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%204:%20Class%20vs.%20Instance)|
-|  05   |  [Lists](./05_Day_Lists/05_lists.md)  |
+|  05   |  [Day 5: Loops](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%205:%20Loops)  |
 |  06   |  [Tuples](./06_Day_Tuples/06_tuples.md) |
 |  07   |  [Sets](./07_Day_Sets/07_sets.md)  |
 |  08   |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)     |
