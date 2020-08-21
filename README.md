@@ -8,15 +8,15 @@ I solved the challenges in Python Programming Language 🐍
 
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  00   |  [Day 0: Hello, World](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%200:%20Hello%2C%20World)      |
-|  01   |  [Day 1: Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%201:%20Data%20Types)      |
-|  02   |  [Day 2: Operators](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%202:%20Operators)  |
-|  03   |  [Day 3: Intro to Conditional Statements](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%203:%20Intro%20to%20Conditional%20Statements)    |
-|  04   |  [Day 4: Class vs. Instance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%204:%20Class%20vs.%20Instance)|
-|  05   |  [Day 5: Loops](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%205:%20Loops)  |
-|  06   |  [Day 6: Let's Review](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%206:%20Let's%20Review) |
-|  07   |  [Day 7: Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%207:%20Arrays)  |
-|  08   |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)     |
+|  00   |  [Day 0: Hello, World](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2000:%20Hello%2C%20World)      |
+|  01   |  [Day 1: Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2001:%20Data%20Types)      |
+|  02   |  [Day 2: Operators](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2002:%20Operators)  |
+|  03   |  [Day 3: Intro to Conditional Statements](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2003:%20Intro%20to%20Conditional%20Statements)    |
+|  04   |  [Day 4: Class vs. Instance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2004:%20Class%20vs.%20Instance)|
+|  05   |  [Day 5: Loops](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2005:%20Loops)  |
+|  06   |  [Day 6: Let's Review](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2006:%20Let's%20Review) |
+|  07   |  [Day 7: Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2007:%20Arrays)  |
+|  08   |  [Day 8: Dictionaries and Maps](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2008:%20Dictionaries%20and%20Maps)     |
 |  09   |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)     |
 |  10   |  [Loops](./10_Day_Loops/10_loops.md)   |
 |  11   |  [Functions](./11_Day_Functions/11_functions.md)     |
