@@ -17,7 +17,7 @@ I solved the challenges in Python Programming Language 🐍
 |  06   |  [Day 6: Let's Review](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2006:%20Let's%20Review) |
 |  07   |  [Day 7: Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2007:%20Arrays)  |
 |  08   |  [Day 8: Dictionaries and Maps](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2008:%20Dictionaries%20and%20Maps)     |
-|  09   |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)     |
+|  09   |  [Day 9: Recursion 3](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2009:%20Recursion%203)     |
 |  10   |  [Loops](./10_Day_Loops/10_loops.md)   |
 |  11   |  [Functions](./11_Day_Functions/11_functions.md)     |
 |  12   |  [Modules](./12_Day_Modules/12_modules.md)   |
