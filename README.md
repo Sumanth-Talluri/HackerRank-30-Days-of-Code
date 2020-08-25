@@ -19,7 +19,7 @@ I solved the challenges in Python Programming Language 🐍
 |  08   |  [Day 8: Dictionaries and Maps](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2008:%20Dictionaries%20and%20Maps)     |
 |  09   |  [Day 9: Recursion 3](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2009:%20Recursion%203)     |
 |  10   |  [Day 10: Binary Numbers](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2010:%20Binary%20Numbers)   |
-|  11   |  [Functions](./11_Day_Functions/11_functions.md)     |
+|  11   |  [Day 11: 2D Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2011:%202D%20Arrays)     |
 |  12   |  [Modules](./12_Day_Modules/12_modules.md)   |
 |  13   |  [List Comprehension](../13_Day_List_comprehension/13_list_comprehension.md)|
 |  14   |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
