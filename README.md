@@ -21,8 +21,8 @@ I solved the challenges in Python Programming Language 🐍
 |  10   |  [Day 10: Binary Numbers](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2010:%20Binary%20Numbers)   |
 |  11   |  [Day 11: 2D Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2011:%202D%20Arrays)     |
 |  12   |  [Day 12: Inheritance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2012:%20Inheritance)   |
-|  13   |  [List Comprehension](../13_Day_List_comprehension/13_list_comprehension.md)|
-|  14   |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
+|  13   |  [Day 13: Abstract Classes](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2013:%20Abstract%20Classes)|
+|  14   |  [Day 14: Scope](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2014:%20Scope)|     
 |  15   |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)     | 
 |  16   |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md)      |     
 |  17   |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|    
