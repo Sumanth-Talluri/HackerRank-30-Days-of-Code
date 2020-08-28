@@ -23,7 +23,7 @@ I solved the challenges in Python Programming Language 🐍
 |  12   |  [Day 12: Inheritance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2012:%20Inheritance)   |
 |  13   |  [Day 13: Abstract Classes](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2013:%20Abstract%20Classes)|
 |  14   |  [Day 14: Scope](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2014:%20Scope)|     
-|  15   |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)     | 
+|  15   |  [Day 15: Linked List](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2015:%20Linked%20List)     | 
 |  16   |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md)      |     
 |  17   |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|    
 |  18   |  [Regular Expressions](./18_Day_Regular_expressions/18_regular_expressions.md)|    
