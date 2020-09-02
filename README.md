@@ -28,7 +28,7 @@ I solved the challenges in Python Programming Language 🐍
 |  17   |  [Day 17: More Exceptions](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2017:%20More%20Exceptions)|    
 |  18   |  [Queues and Stacks](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2018:%20Queues%20and%20Stacks)|    
 |  19   |  [Day 19: Interfaces](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2019:%20Interfaces)   |
-|  20   |  [Python Package Manager](./20_Day_Python_package_manager/20_python_package_manager.md)    |
+|  20   |  [Day 20: Sorting](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2020:%20Sorting)    |
 |  21   |  [Classes and Objects](./21_Day_Classes_and_objects/21_classes_and_objects.md)      |
 |  22   |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)      |
 |  23   |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
