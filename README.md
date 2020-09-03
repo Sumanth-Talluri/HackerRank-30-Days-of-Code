@@ -29,7 +29,7 @@ I solved the challenges in Python Programming Language 🐍
 |  18   |  [Queues and Stacks](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2018:%20Queues%20and%20Stacks)|    
 |  19   |  [Day 19: Interfaces](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2019:%20Interfaces)   |
 |  20   |  [Day 20: Sorting](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2020:%20Sorting)    |
-|  21   |  [Classes and Objects](./21_Day_Classes_and_objects/21_classes_and_objects.md)      |
+|  21   |  [Day 21: Generics](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2021:%20Generics)      |
 |  22   |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)      |
 |  23   |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
 |  24   |  [Statistics](./24_Day_Statistics/24_statistics.md)      |
