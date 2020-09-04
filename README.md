@@ -30,7 +30,7 @@ I solved the challenges in Python Programming Language 🐍
 |  19   |  [Day 19: Interfaces](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2019:%20Interfaces)   |
 |  20   |  [Day 20: Sorting](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2020:%20Sorting)    |
 |  21   |  [Day 21: Generics](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2021:%20Generics)      |
-|  22   |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)      |
+|  22   |  [Day 22: Binary Search Trees](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2022:%20Binary%20Search%20Trees)      |
 |  23   |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
 |  24   |  [Statistics](./24_Day_Statistics/24_statistics.md)      |
 |  25   |  [Pandas](./25_Day_Pandas/25_pandas.md)     |
