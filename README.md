@@ -31,7 +31,7 @@ I solved the challenges in Python Programming Language 🐍
 |  20   |  [Day 20: Sorting](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2020:%20Sorting)    |
 |  21   |  [Day 21: Generics](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2021:%20Generics)      |
 |  22   |  [Day 22: Binary Search Trees](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2022:%20Binary%20Search%20Trees)      |
-|  23   |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
+|  23   |  [Day 23: BST Level-Order Traversal](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2023:%20BST%20Level-Order%20Traversal)|
 |  24   |  [Statistics](./24_Day_Statistics/24_statistics.md)      |
 |  25   |  [Pandas](./25_Day_Pandas/25_pandas.md)     |
 |  26   |  [Python web](./26_Day_Python_web/26_python_web.md)    |
