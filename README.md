@@ -33,7 +33,7 @@ I solved the challenges in Python Programming Language 🐍
 |  22   |  [Day 22: Binary Search Trees](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2022:%20Binary%20Search%20Trees)      |
 |  23   |  [Day 23: BST Level-Order Traversal](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2023:%20BST%20Level-Order%20Traversal)|
 |  24   |  [Day 24: More Linked Lists](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2024:%20More%20Linked%20Lists)      |
-|  25   |  [Pandas](./25_Day_Pandas/25_pandas.md)     |
+|  25   |  [Day 25: Running Time and Complexity](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2025:%20Running%20Time%20and%20Complexity)     |
 |  26   |  [Python web](./26_Day_Python_web/26_python_web.md)    |
 |  27   |  [Python with MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)     |
 |  28   |  [API](./28_Day_API/28_API.md)     |
