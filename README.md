@@ -34,7 +34,7 @@ I solved the challenges in Python Programming Language 🐍
 |  23   |  [Day 23: BST Level-Order Traversal](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2023:%20BST%20Level-Order%20Traversal)|
 |  24   |  [Day 24: More Linked Lists](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2024:%20More%20Linked%20Lists)      |
 |  25   |  [Day 25: Running Time and Complexity](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2025:%20Running%20Time%20and%20Complexity)     |
-|  26   |  [Python web](./26_Day_Python_web/26_python_web.md)    |
+|  26   |  [Day 26: Nested Logic](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2026:%20Nested%20Logic)    |
 |  27   |  [Python with MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)     |
 |  28   |  [API](./28_Day_API/28_API.md)     |
 |  29   |  [Building API](./29_Day_Building_API/29_building_API.md)     |
