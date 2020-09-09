@@ -1,12 +1,21 @@
 # HackerRank 30 Days of Code
 
+
+
+<div style='float: center; text-align: center; margin-bottom: 20px>
+  <a href='https://www.hackerrank.com/msgrubler' target="_blank">
+  <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
+  </a>
+</div>
+ &nbsp;
+
 This repository contains my submissions of the problems in the HackRank 30 Days of Code challenge.
 
 I solved the challenges in Python Programming Language 🐍
 
 &nbsp;
 
-|   # Day   | Topics                                                    |
+|  Day   |   Challenge                                               |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  00   |  [Day 0: Hello, World](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2000:%20Hello%2C%20World)      |
 |  01   |  [Day 1: Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2001:%20Data%20Types)      |
