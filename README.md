@@ -2,7 +2,7 @@
 
 
 
-<div style='float: center; text-align: center; margin-bottom: 20px>
+<div style='float: center; text-align: center; margin-bottom: 20px' >
   <a href='https://www.hackerrank.com/msgrubler' target="_blank">
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
@@ -46,7 +46,7 @@ I solved the challenges in Python Programming Language 🐍
 |  26   |  [Nested Logic](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2026:%20Nested%20Logic)    |
 |  27   |  [Testing](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2027:%20Testing)     |
 |  28   |  [RegEx, Patterns, and Intro to Databases](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2028:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases)     |
-|  29   |  [Building API](./29_Day_Building_API/29_building_API.md)     |
+|  29   |  [Day 29: Bitwise AND](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2029:%20Bitwise%20AND)     |
 
 &nbsp;
 
