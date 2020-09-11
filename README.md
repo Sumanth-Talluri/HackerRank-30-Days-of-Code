@@ -7,11 +7,19 @@
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
+
  &nbsp;
 
 This repository contains my submissions of the problems in the HackRank 30 Days of Code challenge.
 
 I solved the challenges in Python Programming Language 🐍
+
+<br>
+
+:computer: &nbsp; **View the Challenge [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
+
+:star: &nbsp; **View My Badge [here](https://www.hackerrank.com/TalluriSumanth22)** 
+
 
 &nbsp;
 
@@ -46,7 +54,7 @@ I solved the challenges in Python Programming Language 🐍
 |  26   |  [Nested Logic](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2026:%20Nested%20Logic)    |
 |  27   |  [Testing](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2027:%20Testing)     |
 |  28   |  [RegEx, Patterns, and Intro to Databases](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2028:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases)     |
-|  29   |  [Day 29: Bitwise AND](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2029:%20Bitwise%20AND)     |
+|  29   |  [Bitwise AND](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2029:%20Bitwise%20AND)     |
 
 &nbsp;
 
